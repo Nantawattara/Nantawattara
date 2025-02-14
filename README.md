@@ -3,7 +3,7 @@
 
 - Rn I'm currently studying **Flatter Firebase 🧯**
 
-- 👨‍💻 All of my projects are available at [Nantawattara.github.io](Nantawattara.github.io)
+- 👨‍💻 All of my projects are available at [Nantawattara.github.io](https://github.com/Nantawattara?tab=repositories)
 
 - 📫 How to reach me **focus52345@gmail.com**
 
